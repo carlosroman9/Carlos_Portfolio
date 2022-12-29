@@ -1,7 +1,7 @@
 # Carlos_Portfolio
 ## My Data Analyst Portfolio
 
-# Project 1: [Arsenal-WFC-Usage-Rate Analysis] (https://github.com/carlosroman9/Arsenal-WFC-Usage-Rate)
+# **[Project 1: Arsenal-WFC-Usage-Rate Analysis](https://github.com/carlosroman9/Arsenal-WFC-Usage-Rate)**
 
 Over the past year, women's soccer has significantly increased in popularity in the sports world. 
 The FC Barcelona Women's team broke a world record for fan attendance in women’s soccer; reaching a capacity of 91,648 fans at the Camp Nou, the home stadium of FC Barcelona's Men’s team. 
@@ -18,7 +18,7 @@ Usage rate is a term that is used in basketball statistics. It is a formula that
 Data Source
 https://github.com/statsbomb/open-data
 
-# Project 2: [Data Wrangling, Analysis, and AB Testing UC Davis Coursera Course Case Study] (https://github.com/carlosroman9/Data_WRangling_And_AB_Test)
+# **[Project 2: Data Wrangling, Analysis, and AB Testing UC Davis Coursera Course Case Study](https://github.com/carlosroman9/Data_WRangling_And_AB_Test)**
 
 A project serving as a case study for AB testing analysis. The goal of the project was to see if there were increases in product views after a change in product landing pages and if there were increases in product sales after the  inclusion of a follow up email. For both scenarios, the outcomes were measured within 30 days of the test implementation. After establishing both tests, the results were checked for statistical significance with a 95% confidence interval calculation. 
  
@@ -29,7 +29,7 @@ A project serving as a case study for AB testing analysis. The goal of the proje
 
 The data was provided by Coursera.
 
-# Project 3: [Wellness Center Usage Analysis] (https://github.com/carlosroman9/Wellness_Center_Usage)
+# **[Project 3: Wellness Center Usage Analysis](https://github.com/carlosroman9/Wellness_Center_Usage)**
 
 One of my tasks while working as a Wellness Outreach Worker was to analyze our school’s wellness center usage. My task was to calculate the total number of students using the wellness center per day, per week, per month, and the total for the semester. I was also asked to break down check-ins by grade level, ethnicity of the student, and reason for visiting the wellness center. The data used in this project is synthetic. 
 
