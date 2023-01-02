@@ -52,4 +52,3 @@ This data was formatted as if it were collected from a google form used by stude
 
 
 
-theme: midnight
