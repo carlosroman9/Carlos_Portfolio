@@ -14,6 +14,8 @@ I was inspired to pursue this project because of my interest in human performanc
 What is “usage rate? And “positive rate?”
 Usage rate is a term that is used in basketball statistics. It is a formula that calculates the percentage of actions a player takes when they are in possession of the ball (whether the outcome was positive or negative). In the scope of this project, I have only selected to include a player’s passes, shots, and dribbles in the calculation. Overall, I calculated each player’s usage rate by adding their individual totals in passes, shots, and dribbles by the team’s (all the players combined) shots, passes and dribbles. The positive rate is the same formula, but only counting completed passes and successful dribbles. 
 
+![image](https://user-images.githubusercontent.com/32028989/210279412-50e378a1-7427-4944-a41d-c3626a70a379.png)
+
 **Technology**: Python, JSON, SQLITE, Microsoft SQL Server
 Data Source
 https://github.com/statsbomb/open-data
@@ -42,4 +44,8 @@ Excel/Google Sheets, R Studio
 ** Data Source:**
 
 This data was formatted as if it were collected from a google form used by students to sign into the wellness center. The data is synthetic. 
+
+![image](https://user-images.githubusercontent.com/32028989/210279451-3d1b3687-cd1b-4d55-b014-1e9edfc039c6.png)
+![image](https://user-images.githubusercontent.com/32028989/210279460-73a7684e-ba49-4f4e-80e3-4bbeb8d98466.png)
+
 
