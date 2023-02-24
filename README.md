@@ -28,7 +28,7 @@ Overall, analyzing usage rate and positive rate amongst players presents a clear
 
 
 
-# **[Project 2: Youth Mental Health Usage in California](https://github.com/carlosroman9/California_Youth_Mental_Health_Service_Usage))**
+# **[Project 2: Youth Mental Health Usage in California](https://github.com/carlosroman9/California_Youth_Mental_Health_Service_Usage)**
 
 **Technology**: Excel (Power Query), Power BI
 
