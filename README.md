@@ -1,7 +1,15 @@
 
 
-# Carlos_Portfolio
-## My Data Analyst Portfolio
+# Carlos Roman Data Analyst Portfolio
+
+## About Me
+
+As a data analyst, I hope to bring clarity and ease of understanding to complicated problems. I enjoy the challenge of finding patterns that are hidden within the obvious and answering the perpetual question of; “why?”
+
+Previously, I have five years experience working in education and mental health and hope to utilize my teaching skills to familiarize people with the insights locked behind data. My interests include sports-talent acquisition, sports-performance, human behavior, and internet safety. 
+
+Thank you for taking a look at my portfolio, and I hope to continue my data analyst development for the future. 
+
 
 # **[Project 1: Women's Euro 2022 Player Usage Rate](https://github.com/carlosroman9/Arsenal-WFC-Usage-Rate)**
 
